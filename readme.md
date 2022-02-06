@@ -32,4 +32,4 @@ Give credit here.
 - This project was inspired by Arkadiusz Włodarczyk course "Python 3 course from scratch to expert" https://www.udemy.com/share/101Zq23@jX8IFFInEQTdpuTu3RKcvLCB75rloXzf42_SR3SmMgSi0SHE80TOE2BGUaYp7ER_/
 
 ## Contact
-Created by [@Emil Tucharz](emil.tucharz@gmail.com) - feel free to contact me!
+Created by [@eTucharz](https://github.com/eTucharz) - feel free to contact me!
